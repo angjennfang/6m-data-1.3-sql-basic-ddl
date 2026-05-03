@@ -1,1 +1,2 @@
 Test Staging
+Day 2: Stage → Commit → Push is the core workflow!
